@@ -1,7 +1,7 @@
 t5-sql
 ==============================
 
-A SQL dialects transformer for PL/PG SQL, TSQL
+A SQL dialects transformer for PL/PG SQL, TSQL with Google T5
 
 Project Organization
 ------------
