@@ -55,3 +55,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+#
+https://huggingface.co/SEBIS/code_trans_t5_small_transfer_learning_pretrain
+https://huggingface.co/SEBIS/code_trans_t5_base_transfer_learning_pretrain
